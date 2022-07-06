@@ -16,5 +16,5 @@ def draw(coordinate):
 y = 'y'
 while y == 'y':
   draw(coordinate)
-  y = input("Do you want to restart?(y/n): ", )
+  y = input("restart?(y/n): ", )
 print('Goodbye')
